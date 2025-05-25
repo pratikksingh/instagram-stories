@@ -34,6 +34,7 @@ export const StoryView = ({
           src={userData.profilePicture}
           width={10}
           height={10}
+          alt={`${userData.username}'s dp`}
         />
         <p>{userData.username}</p>
       </div>

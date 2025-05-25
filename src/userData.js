@@ -11,7 +11,7 @@ export const data = [
         id: "s1",
         mediaType: "image",
         mediaUrl:
-          "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=1080",
+          "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=1080",
         timestamp: "2025-05-25T08:30:00Z",
         duration: 5,
         viewed: false,
@@ -30,7 +30,7 @@ export const data = [
         id: "s2",
         mediaType: "video",
         mediaUrl:
-          "https://player.vimeo.com/external/357274249.sd.mp4?s=bfd27809b84b5b5e524f6d5a1f60f1fcd7385b1e&profile_id=165",
+          "https://images.unsplash.com/photo-1506765515384-028b60a970df?w=1080",
         thumbnailUrl:
           "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1080",
         timestamp: "2025-05-25T09:00:00Z",
@@ -82,7 +82,7 @@ export const data = [
       id: "u5",
       username: "danielmartin",
       profilePicture:
-        "https://images.unsplash.com/photo-1542204165-19b09c3d62b9?w=200&h=200&fit=crop",
+        "https://images.unsplash.com/photo-1607746882042-944635dfe10e?w=200&h=200&fit=crop",
     },
     items: [
       {
@@ -127,7 +127,7 @@ export const data = [
         id: "s7",
         mediaType: "video",
         mediaUrl:
-          "https://player.vimeo.com/external/309951127.sd.mp4?s=214e7c2673468cbd48e350c476f6b3fa07b6eab8&profile_id=165",
+          "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=1080",
         thumbnailUrl:
           "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080",
         timestamp: "2025-05-25T13:00:00Z",
