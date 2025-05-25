@@ -50,6 +50,8 @@ function App() {
           })}
         </div>
       )}
+
+      <h3>Tap any profile above to view the story </h3>
     </>
   );
 }
